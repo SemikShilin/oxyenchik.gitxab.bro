@@ -1,0 +1,17 @@
+body
+ {
+    font-style: initial;
+    font-size: 25px;
+    background-color: rgb(225, 16, 16);
+ }
+ h1
+  {
+    text-align: left;
+    color: blue;
+
+  }
+  p 
+  {
+    color: black;
+    padding-left: 45px;
+  }
